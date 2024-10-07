@@ -1,1 +1,3 @@
 # Amazon-clone
+Author - Aryan Singh
+This is a clone of Amazon.com Homepage...
